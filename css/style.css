@@ -1,0 +1,181 @@
+/* custom font faces */
+@font-face {
+    font-family: "cg-m";
+    src: url("/fonts/CabinetGrotesk-Medium.woff");
+}
+
+@font-face {
+    font-family: "cg-b";
+    src: url("/fonts/CabinetGrotesk-Bold.woff");
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    overflow-x: hidden;
+    font-family: 'General Sans', sans-serif;
+}
+
+/* price title styling */
+.pricing-title {
+    height: 3rem !important;
+    position: relative;
+}
+
+.money-symbol {
+    position: absolute;
+    top: 30px;
+}
+
+.par-month {
+    position: relative;
+    top: 60px;
+}
+
+.check-domain-section {
+    background-image: url('/images/bg.svg');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* service image flip */
+service-left img {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+/* console image flip */
+.console-image {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+.domain-title {
+    font-family: 'cg-m' !important;
+}
+
+.domain-paragraph {
+    font-family: 'cg-m' !important;
+}
+
+/* testimonial section styling */
+.testimonial {
+    background-image: url('/images/bg.svg');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.testimonial-details {
+    font-family: 'cg-m';
+}
+
+/* footer section styling */
+.hosting a,
+.Domain a,
+.Information a,
+.Company a {
+    display: block;
+    font-size: 13px;
+    line-height: 18px;
+    font-weight: 500;
+}
+
+a.font-normal.text-base.text-gray-500.hover\:text-red-500 {
+    margin-bottom: .4rem;
+}
+
+.legal-title,
+.help-title {
+    margin-top: 2rem !important;
+}
+
+/* responsiveness start here */
+
+/* nav section max width */
+.nav-section-main {
+    max-width: 1536px;
+    margin: 0 auto;
+}
+
+/* hero section max width */
+.hero-main {
+    max-width: 1536px;
+    margin: 0 auto;
+}
+
+/* select best plan section max width */
+.select-best-plan {
+    max-width: 1536px;
+    margin: 0 auto;
+}
+
+/* pricing section max width */
+.pricing{
+    max-width: 1536px;
+    margin: 0 auto;
+}
+.pricing-main {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* find domain section max width */
+.domain-main {
+    max-width: 1536px;
+    margin: 0 auto;
+}
+
+/* service section max width */
+.service-main {
+    max-width: 1536px;
+    margin: 0 auto;
+}
+
+/* console section max width */
+.console {
+    max-width: 1536px;
+    margin: 0 auto;
+}
+
+/* testimonial section max width */
+.testimonial-main {
+    max-width: 1536px;
+    margin: 0 auto;
+}
+
+/* commitment section max width */
+.commitment {
+    max-width: 1536px;
+    margin: 0 auto;
+}
+
+/* footer section max width */
+.footer-main {
+    max-width: 1536px;
+    margin: 0 auto;
+}
+
+.footer-bottom-part{
+    max-width: 1536px !important;
+    margin: 0 auto;
+}
+
+/* flags section responsiveness start here */
+.flags-main{
+    max-width: 1535px;
+    margin: 0 auto;
+}
+
+
+
