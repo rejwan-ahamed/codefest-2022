@@ -2,26 +2,12 @@
 
 <p align="center" margin-bottom="10px"> <img width="400px" height="400px" src="https://firebasestorage.googleapis.com/v0/b/rejwan-ahamed-portfolio.appspot.com/o/images%2F3.png?alt=media&token=5f2f6cd7-687f-43b9-9dec-8c9561c39394" /> </p>
 
-<h3 align="letf">Hi! there I am Rejwan Ahamed. I build the awesome project for Thapa Technical Codefest 2022. Our challenge at CodeFest was to redesign Hostinger's website. It was an excellent opportunity to create a great website and showcase my skills. So to create a project, first of all, I audit their website and try to know what service the company is providing to its customers. Try to know about their brand color, design pattern, and their targeted customers. Then I create a design with ideas about everything. I design the website in such a way that the website looks modern and strate to the point. Through the website, the company can easily inform its customers about the services they provide. For this, I designed the entire structure of the website in a new way with a completely new color palette. Hope you like my work. Thanks for reading the documentation.</h3>
+<h4 align="letf">Hi! there I am Rejwan Ahamed. I build the awesome project for Thapa Technical Codefest 2022. Our challenge at CodeFest was to redesign Hostinger's website. It was an excellent opportunity to create a great website and showcase my skills. So to create a project, first of all, I audit their website and try to know what service the company is providing to its customers. Try to know about their brand color, design pattern, and their targeted customers. Then I create a design with ideas about everything. I design the website in such a way that the website looks modern and strate to the point. Through the website, the company can easily inform its customers about the services they provide. For this, I designed the entire structure of the website in a new way with a completely new color palette. Hope you like my work. Thanks for reading the documentation.</h4>
+
+<h4 align="letf" color="red">The website was not made for production. So there will be some issues for load the website in your system. If the website is not loaded in your system properly please try to reload the website or use google chrome to visit the website.</h4>
 
 <!-- <p align="left" margin-bottom="10px"> <img src="https://komarev.com/ghpvc/?username=rejwan-ahamed&label=Profile%20views&color=0e75b6&style=flat" alt="rejwan-ahamed" /> </p> -->
 
-<p margin-bottom="10px">&nbsp</p>
-
-- 🔭 I’m currently working on **Laravel project**
-
-- 🌱 I’m currently learning **Laravel and vue js**
-
-- 👨‍💻 All of my projects are available on  <a href="https://mynewapp-efa8f.web.app/works.html" target="blank"> **my website**</a>
-
-- 📝 I regularly write articles on  <a href="https://deadpoolzrx1.blogspot.com/" target="blank"> **blogsport**</a>
-
-- 💬 Ask me about **vue js and gsap**
-
-- 📫 How to reach me **rejwanahamed85@gmail.com**
-
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1AIAGfjdmfKh34-nPQJn4wJc8CSSpj6u2/view" target="blank"> **My resume**</a>
-- ⚡ Fun fact **I hate bugs**
 
 
 <h3 align="left">Languages and Tools are used to build the project:</h3>
@@ -37,7 +23,8 @@
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/firebase-1.svg?alt=media&token=543293b5-a107-4763-b0ba-e25477848f6d" alt="rejwan-ahamed" />
 </p>
 
-
+<h4 align="left">Check my website to know the story of how I designed and built the website.</h4>
+<a href="rejwanahamed.xyz" font-width="bold">My website</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
