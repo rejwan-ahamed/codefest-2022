@@ -24,7 +24,7 @@
 </p>
 
 <h4 align="left">Check my website to know the story of how I designed and built the website.</h4>
-<a href="rejwanahamed.xyz" font-width="bold">My website</a>
+<a href="rejwanahamed.xyzhttps://rejwanahamed.xyz/post/13" font-width="bold">My website</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
