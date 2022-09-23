@@ -103,8 +103,8 @@ a.font-normal.text-base.text-gray-500.hover\:text-red-500 {
 /* responsiveness start here */
 
 /* nav section max width */
-.nav-section-main {
-    max-width: 1536px;
+.nav-section-main.container.flex.flex-wrap.justify-between.items-center.mx-auto {
+    max-width: 1200px;
     margin: 0 auto;
 }
 
